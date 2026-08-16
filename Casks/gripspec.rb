@@ -1,6 +1,6 @@
 cask "gripspec" do
-  version "0.6.116"
-  sha256 "5055b45d46700dda853c850af2890f6249c2e778584780a57f2c798b32485715"
+  version "0.6.117"
+  sha256 "4f391ff1380a326bba4ea94a89cb7d51cad633a4b07f898b8d46adc110a80200"
   
   url "https://github.com/buckmoon/gripspec-release/releases/download/v#{version}/GripSpec-#{version}-arm64.dmg"
   name "GripSpec"
