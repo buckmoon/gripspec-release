@@ -1,6 +1,6 @@
 cask "gripspec-dashboard" do
-  version "0.7.1"
-  sha256 "9d5a27242ddad212b4e1a1d3e121afd2dddae210eb1b73e18c91053d3125b0be"
+  version "0.7.2"
+  sha256 "3b1ce80fdbfed526d71852ca0915d5ae3b881dec2d321116db15e1bc627166a2"
 
   url "https://github.com/buckmoon/gripspec-release/releases/download/v#{version}/GripSpec-Dashboard-#{version}-arm64.dmg"
   name "GripSpec Dashboard"
