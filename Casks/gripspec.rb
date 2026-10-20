@@ -5,7 +5,7 @@ cask "gripspec" do
   url "https://github.com/buckmoon/gripspec-release/releases/download/v#{version}/GripSpec-#{version}-arm64.dmg"
   name "GripSpec"
   desc "Fast and lightweight Markdown viewer with live preview"
-  homepage "https://github.com/buckmoon/gripspec"
+  homepage "https://github.com/buckmoon/gripspec-release"
 
   app "GripSpec.app"
 

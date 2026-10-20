@@ -5,7 +5,7 @@ cask "gripspec-hub" do
   url "https://github.com/buckmoon/gripspec-release/releases/download/v#{version}/GripSpec-Hub-#{version}-arm64.dmg"
   name "GripSpec Hub"
   desc "Voice input and AI agent approvals from the menu bar"
-  homepage "https://github.com/buckmoon/gripspec"
+  homepage "https://github.com/buckmoon/gripspec-release"
 
   app "GripSpec Hub.app"
 

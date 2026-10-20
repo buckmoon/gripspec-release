@@ -5,7 +5,7 @@ cask "gripspec-dashboard" do
   url "https://github.com/buckmoon/gripspec-release/releases/download/v#{version}/GripSpec-Dashboard-#{version}-arm64.dmg"
   name "GripSpec Dashboard"
   desc "Dashboard for AI agent conversations, TODOs and notes"
-  homepage "https://github.com/buckmoon/gripspec"
+  homepage "https://github.com/buckmoon/gripspec-release"
 
   app "GripSpec Dashboard.app"
 
